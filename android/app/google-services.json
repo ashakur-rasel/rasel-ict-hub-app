@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123119442853",
+    "project_id": "raselicthub",
+    "storage_bucket": "raselicthub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123119442853:android:4df65986c27e6ce7b7664c",
+        "android_client_info": {
+          "package_name": "com.example.rasel_ict_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcpoxxa8hKfAReU0fSDhZnB5HNqBvYtPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
